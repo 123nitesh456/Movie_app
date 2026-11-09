@@ -80,3 +80,8 @@ Pick an Android emulator or a USB-connected phone. If you build a **release** AP
 ## Credits
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
+
+
+## Screenshots & Demo Video
+you can view all application screenshots and the complete demo video here:
+https://drive.google.com/drive/folders/1o0yRMrZlzXbdotL7EmecqQcHYj3kiiiK?usp=sharing
